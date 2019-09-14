@@ -1,3 +1,6 @@
+yob = int(input("Your year of birth"))
+age = 2019 - yob
+print (age)
 
-n = int (input("moi nguoi dung nhap so:"))
-print(n + 1) 
+if age < 5
+print ("baby")
