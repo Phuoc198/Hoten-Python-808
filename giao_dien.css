@@ -7,10 +7,11 @@
 
 .d-flex {
     display: flex;
+    justify-content: center;
 }
 
-.w-1430 {
-    width: 1430px;
+.w-1450 {
+    width: 1450px;
 
 }
 
@@ -71,3 +72,4 @@
 .m-item2 {
     margin: 70px 70px 10px 410px;
 }
+
