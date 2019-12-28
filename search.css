@@ -5,8 +5,8 @@ body{
 }
 .search-box{
     position: absolute;
-    top: 5%;
-    right: 5%;
+    top: 3%;
+    right: 2%;
 
     background: #2f3640;
     height: 40px;
